@@ -4,3 +4,4 @@ Merge
 =======
 Creating merge conflict
 >>>>>>> f36981b590fd7443443d30d3883da5de49960d0c
+merge2
