@@ -1,1 +1,2 @@
 Hello git
+Creating merge conflict
