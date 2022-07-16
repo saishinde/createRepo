@@ -2,3 +2,4 @@ Hello git
 Merge
 Creating merge conflict
 Merge1
+merge2
